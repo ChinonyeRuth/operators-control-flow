@@ -36,8 +36,9 @@ if (classGroup === 'Science') {
 
 console.log(subjects)
 
-// print the subjects Bolatito will take
-// console.log('Bolatito will take the following subjects:')
-// subjects.forEach(function () {
-//   console.log(subject)
-// })
+///4
+for (let i = 1; i < 20; i += 7) {
+  console.log(i)
+}
+
+//output is 1, 8, 15
